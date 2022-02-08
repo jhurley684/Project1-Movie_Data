@@ -1,2 +1,4 @@
-# Project1-Movie_Data
-Access, Get Download From API, Clean and Analyze Data Using Pandas &amp; Matplotlib
+# Project-1
+Repo for Project 1
+
+This is for Project 1.
